@@ -20,5 +20,10 @@ The repositories within this organisation are structured to support the various 
 
 All code submitted to the repositories within this organisation is not owned or maintained by the New Zealand Government, or by Microsoft. It is the responsibility of the individual contributors to ensure that the code is compliant with the relevant laws and regulations, and any updates or changes to the code are the responsibility of the individual contributors.
 
+## Contributing
+
+This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the Code of Conduct FAQ or contact opencode@microsoft.com with any additional questions or comments
 
 These repositories are open to all NZ Government employees.  If you are interested in joining the community, please get in touch with bevan.sinclair@microsoft.com
